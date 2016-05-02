@@ -1,6 +1,21 @@
 /***************/
 /* YOUR STYLES */
 /***************/
+.grid-container h1 {
+	font-family: 'Montserrat', sans-serif;
+	color: #424242;
+}
+
+.grid-container p {
+	font-family: 'Georgia', sans-serif;
+	font-style: italic;
+	color: #424242;
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	color: #3299BB;
+}
 
 /* Color Palette */
 .color-1 {
@@ -17,6 +32,20 @@
 
 
 /* Navigation */
+.grid-3 li {
+	list-style-type: none;
+}
+
+.grid-3 li a {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	color: #BCBCBC;
+	text-decoration: none;
+}
+
+.grid-3 li a:hover {
+	color: #424242;
+}
 
 
 /* Typography */
