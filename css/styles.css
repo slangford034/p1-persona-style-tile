@@ -23,18 +23,20 @@ hr {
 .grid-container h1 {
 	font-family: 'Montserrat', sans-serif;
 	color: #424242;
+	font-size: 3em;
 }
 
 .version {
 	font-family: 'Georgia', sans-serif;
 	font-style: italic;
 	color: #424242;
-	margin-top: 50px;
+	margin-top: 40px;
 }
 
 h2 {
 	font-family: 'Montserrat', sans-serif;
-	color: #3299BB;
+	color: #424242;
+	font-size: 1.25em;
 }
 
 /* Color Palette */
@@ -82,6 +84,7 @@ h2 {
 }
 
 /* Imagery */
+
 
 
 /* Icons */
