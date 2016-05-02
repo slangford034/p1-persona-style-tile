@@ -1,21 +1,35 @@
 /* Boxes */
-.color-1,
-.color-2,
-.color-3,
-.color-4,
-.color-5,
 .pattern-1,
 .pattern-2,
 .pattern-3,
 .pattern-4,
-.pattern-5,
+.pattern-5 {
+	border: 1px solid #BCBCBC;
+	border-radius: 2px;
+	display: inline-block;
+	margin: 10px;
+	height: 100px;
+	width: 100px;
+}
+
 .icon-1,
 .icon-2,
 .icon-3,
 .icon-4,
 .icon-5 {
-	border: 1px solid #000;
 	display: inline-block;
+	margin: 10px;
+	height: 100px;
+	width: 100px;	
+}
+
+.color-1,
+.color-2,
+.color-3,
+.color-4,
+.color-5 {
+	display: inline-block;
+	border-radius: 2px;
 	margin: 10px;
 	height: 100px;
 	width: 100px;
@@ -26,7 +40,8 @@
 .imagery-3 img,
 .imagery-4 img,
 .imagery-5 img {
-	border: 1px solid #000;
+	border: 1px solid #BCBCBC;
+	border-radius: 2px;
 	height: 200px;
 	width: 300px;
 }
