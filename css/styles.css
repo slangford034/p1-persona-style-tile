@@ -100,6 +100,10 @@ span {
 
 
 /* Navigation */
+.grid-3 ul {
+	padding-left: 0px;
+	line-height: 30px;
+}
 .grid-3 li {
 	list-style-type: none;
 }
@@ -115,6 +119,9 @@ span {
 	color: #424242;
 }
 
+.textlink {
+	color: #FF9900;
+}
 
 /* Typography */
 .grid-9 p {
