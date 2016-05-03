@@ -39,6 +39,14 @@ h2 {
 	font-size: 1.25em;
 }
 
+span {
+	color: #3299BB;
+}
+
+.icons div{
+	margin-top: 35px;
+	margin-bottom: 0px;
+}
 /* Color Palette */
 .color-1 {
 	background-color: #FF9900;
@@ -109,4 +117,29 @@ h2 {
 
 
 /* Typography */
+.grid-9 p {
+	font-family: 'Georgia', sans-serif;
+	font-style: italic;
+	color: #424242;	
+}
+
+.grid-9 a {
+	color: #FF9900;
+}
+
+.header {
+	font-size: 1em;
+}
+
+.second {
+	color: #3299BB;
+	font-size: 1em;
+}
+
+.paragraphs {
+	font-family: 'Georgia', sans-serif;
+	font-style: italic;
+	color: #424242;
+	font-size: 1em;
+}
 
